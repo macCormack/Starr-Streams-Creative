@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands": "2022-07-08 17:48:23 -0400",
+      "minecraft:badlands": "2022-07-08 17:54:30 -0400",
+      "minecraft:river": "2022-07-08 17:54:53 -0400",
+      "minecraft:desert": "2022-07-08 17:53:48 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}
